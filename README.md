@@ -1,5 +1,4 @@
-# react-russian-map
+# react-russian-map v2
 
-[![Build Status](https://travis-ci.org/vaeum/react-russian-map.svg?branch=master)](https://travis-ci.org/vaeum/react-russian-map)
+Forked from https://github.com/anpleenko/react-russian-map
 
-React component russian map
